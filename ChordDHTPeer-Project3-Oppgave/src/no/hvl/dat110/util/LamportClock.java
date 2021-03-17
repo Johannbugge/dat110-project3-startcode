@@ -1,6 +1,3 @@
-/**
- * 
- */
 package no.hvl.dat110.util;
 
 import java.io.Serializable;
