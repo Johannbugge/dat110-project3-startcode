@@ -1,6 +1,3 @@
-/**
- * 
- */
 package no.hvl.dat110.middleware;
 
 import java.math.BigInteger;
